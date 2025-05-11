@@ -14,7 +14,7 @@ public class GamePanel extends JPanel {
     final int screenWidth = titleSize * maxScreenCol;//1024 pix
     final int screenHeight = titleSize * maxScreenRow;//768 pix
 
-
+//com
 
     public GamePanel(){
         this.setPreferredSize(new Dimension(screenWidth,screenHeight));

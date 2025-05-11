@@ -13,7 +13,7 @@ public class Main {
 
         window.pack();
 
-        window.setLocationByPlatform(null);
+        window.setLocationRelativeTo(null);
         window.setVisible(true);
     }
     //pushshe
