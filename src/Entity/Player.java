@@ -85,7 +85,7 @@ public class Player extends Entity{
                                 image=right1;
                                 break;
                 }
-
+                g2.drawImage(image,x,y,gp.titleSize,gp.titleSize,null);
 
         }
 }
